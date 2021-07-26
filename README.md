@@ -1,6 +1,6 @@
 # Y1-detectors-replication-package
 
-This is a replication package for the paper "Automatic detection of Long Method and God Class code smells through neural source code embeddings," submitted for consideration in _Expert Systems with Applications_ journal. 
+This repository contains the replication package for the paper "Automatic detection of Long Method and God Class code smells through neural source code embeddings," submitted for consideration in _Expert Systems with Applications_ journal. 
 
 We used the MLCQ dataset in our experiments:
 _Madeyski, L. and Lewowski, T., 2020. MLCQ: Industry-relevant code smell data set. In Proceedings of the Evaluation and Assessment in Software Engineering (pp. 342-347)._,
